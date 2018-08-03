@@ -1,0 +1,4 @@
+"claim_type","country","date","invoice","product_type","quantity","species","supplier","units","description","mix_amount","direction","id"
+"FSC 100%","","","","W2 Charcoal (lump)","1020","","XYZ-COC-654321","t (tons metric)","","","Purchases","88c8e87d-1248-12dc-d507-8c9738e56398"
+"FSC Mix Credit","","","","W2 Charcoal (briquettes)","754","","XYZ-COC-654321","t (tons metric)","","","Purchases","fabfc2f0-939f-e45a-6d2f-631b423f6a3c"
+"FSC 100%","","","","W2 Charcoal (lump)","905","","ABC-COC-123456","t (tons metric)","","","Sales","55564a28-b21a-bce0-0fe4-c0fde455b3ec"
